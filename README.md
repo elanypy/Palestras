@@ -1,2 +1,2 @@
 # Palestras
-Palestras em PDF 
+Palestras ministradas. Tipo de arquivo: PDF 
